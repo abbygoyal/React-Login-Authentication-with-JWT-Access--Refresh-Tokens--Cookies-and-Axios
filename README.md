@@ -1,17 +1,23 @@
 # "React Login Authentication with JWT Access, Refresh Tokens, Cookies and Axios"
+React Login Authentication with JWT Access, Refresh Tokens, Cookies and Axios
+## Live Project Link
 
-✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
+[React Login Authentication with JWT Access, Refresh Tokens, Cookies and Axios](https://)
 
-**Description:**
+# How to fork and clone
 
-This repository shares the code applied during the [YouTube Tutorial](https://youtu.be/nI8PYZNFtac). 
+One quick note about cloning this project. If you wish to make commits and push the code up after cloning this repo, you should fork the project first. In order to own your own copy of this repository, you have to fork it so you get your own copy on your own profile!
 
-Build the backend REST API that I use for authentication in this tutorial with my [7 hour Node JS for Beginners course](https://youtu.be/f2EqECiTBL8) on my channel.
+You can see the fork button in the top right corner of every GitHub project; click it and a copy of the project will be added to your GitHub profile under the same name as the original project.
 
-Just starting with React? I have a [9 hour React course tutorial video](https://youtu.be/RVFAyFWO4go) on my channel.  
+![alt text](https://i.ibb.co/1YN7SJ6/Screen-Shot-2019-07-01-at-2-02-40-AM.png "image to fork button")
 
-I suggest completing my [8 hour JavaScript course tutorial video](https://youtu.be/EfAl9bwzVZk) before attempting React if you are new to Javascript.
+After forking the project, simply clone it the way you would from the new forked project in your own GitHub repository and you can commit and push to it freely.
 
-### Academic Honesty
+# After you fork and clone:
 
-**DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiargism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
+## Install dependencies
+
+In your terminal after you clone your project down, remember to run either `yarn` or `npm install` to build all the dependencies in the project.
+
+
